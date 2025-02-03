@@ -18,7 +18,7 @@ A aventura começa assim que você entra na prisão. Seu objetivo? Fugir! Enfren
 ### Passos para jogar:
 1. Clone este repositório:
     ```bash
-    git clone [URL do repositório]
+    git clone https://github.com/rhuanzero/fuga-da-prisao-de-retrolopolis
     ```
 2. Compile o código:
     ```bash
